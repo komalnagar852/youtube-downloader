@@ -1,2 +1,4 @@
-# youtube-downloader
-it's able to download the youtube videos and able to convert them into MP3.
+# Youtube-Audio-Downloader
+A simple Python script that downloads YouTube videos or playlists and converts them into MP3 files.
+
+I'm currently uploading the complete working project here on GitHub
